@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto','Noto sans JP';
+  margin: 40px 20px;
+  background-color: #222222;
+  color: #ffffff;
+  line-height: 180%;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+}
+
+h1 {
+  height: 60px;
+  font-size: 52px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 28px;
+}
+
+p {
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+
+@media (max-width: 670px)
+{
+
+    * {
+
+        margin: 40px 16px;
+    
+    }
+
+    h1 {
+        margin-top: 80px;
+        font-size: 38px;
+        font-kerning: none;
+    
+    }
+    
+}

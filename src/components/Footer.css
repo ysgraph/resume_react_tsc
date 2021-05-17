@@ -1,0 +1,12 @@
+footer {
+
+    margin: 100px 0 20px ;
+    text-align: center;
+    
+}
+
+small {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 14px;
+    display: block;
+}

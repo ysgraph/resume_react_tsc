@@ -1,0 +1,13 @@
+.ItemLink {
+    display: flex;
+}
+
+.links {
+    margin: 0;
+    margin-right: 8px;
+    opacity: 0.8;
+}
+
+.links:hover {
+    opacity: 1;
+}
