@@ -7,7 +7,7 @@ import ItemLink from './ItemLink';
 function Main() {
     return (
         <div className="Main">
-            <h1>ysgraph.github.io</h1>
+            <h1>Resume</h1>
             <section id="name">
                 <Heading heading="Name" />
                 <ItemText 
@@ -28,9 +28,9 @@ function Main() {
                     summary="デザイナー"
                 />
                 <ItemText 
-                    period="2020.8 - 2021.03"
+                    period="2020.8 - 2021.3"
                     belonging="株式会社Gracia（業務委託）"
-                    summary="ギフトECサービス「TANP」UI/UX設計"
+                    summary="ギフトECサービス「TANP」UI設計"
                     detail1="iOS App 新機能設計"
                     detail2="Web・iOS App グロース施策UI設計"
                     detail3="キャンペーンLP・クリエイティブ制作"
@@ -44,7 +44,7 @@ function Main() {
                     detail3="定量・定性データを活用したプロトタイピング・UI設計"
                 />
                 <ItemText 
-                    period="2018.08 -"
+                    period="2018.8 -"
                     belonging="UI/UXデザイン インターンシップ"
                     detail1="DeNA Co., Ltd."
                     detail2="Goodpatch Inc. / 最優秀賞"
@@ -54,7 +54,7 @@ function Main() {
                     detail6="Uzabase, Inc."
                 />
                 <ItemText 
-                    period="2017.10 - 2019.03"
+                    period="2017.10 - 2019.3"
                     belonging="株式会社NPCコーポレーション"
                     summary="アルバイト / デザイナー"
                     detail1="DTP/グラフィックデザイン"
